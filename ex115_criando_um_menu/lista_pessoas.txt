@@ -1,0 +1,6 @@
+Plinio;36
+Carla;35
+Beatriz;17
+Gabriela;12
+Perla;35
+Gustavo;45
